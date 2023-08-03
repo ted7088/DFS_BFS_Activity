@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//합이 같은 부분집합
 public class Main_1 {
 
     static String answer = "";
